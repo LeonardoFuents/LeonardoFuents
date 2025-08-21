@@ -3,7 +3,7 @@
 <h3>Um desenvolvedor apaixonado por tecnologia e por transformar ideias em código.</h3>
 
 <h3>Estudando CSS e HTML </h3>
-<h3>Contate-me no email: leonardo.rafuentes@gmail.com</h3>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFuents)](https://github.com/anuraghazra/github-readme-stats)
 
