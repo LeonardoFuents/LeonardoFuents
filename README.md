@@ -1,4 +1,5 @@
-## Olá , me chamo Leonardo Fuentes!!
+## Olá , eu sou o Leonardo Fuentes!!
+<h3 align="center">Um desenvolvedor apaixonado por tecnologia e por transformar ideias em código.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFuents)](https://github.com/anuraghazra/github-readme-stats)
 
