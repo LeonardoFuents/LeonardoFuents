@@ -4,6 +4,7 @@ on:
   schedule:
     # Executa a cada 6 horas
     - cron: "0 */6 * * *"
+  # Permite que você execute manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
@@ -11,13 +12,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      # Passo 1: Clona o seu repositório para o ambiente da Action
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      # Passo 2: Gera os arquivos da animação da cobra
+      # (não salva, apenas cria os arquivos na pasta 'dist')
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # Passo 3: Pega os arquivos da pasta 'dist' e os envia para o seu repositório
+      # ESTE ERA O PASSO QUE FALTAVA
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main # Se seu branch principal for 'master', mude aqui
+          directory: ./dist
+          force: true
