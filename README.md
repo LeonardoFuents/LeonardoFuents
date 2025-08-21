@@ -27,6 +27,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFuents&layout=compact&theme=midnight-purple" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github snake animation" src="dist/github-snake.svg" />
+</picture>
 
 
   
