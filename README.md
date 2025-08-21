@@ -15,7 +15,7 @@
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Leo-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="Leo-C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">    
   <img align="center" alt="Leo-VS" height="30" width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg">
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
