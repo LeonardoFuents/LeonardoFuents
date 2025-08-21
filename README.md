@@ -1,4 +1,7 @@
-Sobre mim
+### - Sobre mim
+
+- Atualmente aprimorando meu conhecimento como <strong>Técnico em Desenvolvimento de Sistemas</strong> na Escola SENAI Paulo Antônio Skaf.
+- 
 
 
 
