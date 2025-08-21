@@ -1,6 +1,7 @@
 ### - Sobre mim
 
-- Atualmente aprimorando meu conhecimento como <strong>Técnico em Desenvolvimento de Sistemas</strong> na Escola SENAI Paulo Antônio Skaf.
+- :book: Atualmente aprimorando meu conhecimento como <strong>Técnico em Desenvolvimento de Sistemas</strong> na Escola SENAI Paulo Antônio Skaf.
+- :video_game: Apaixonado por tecnologia e jogos
 - 
 
 
