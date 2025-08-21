@@ -26,14 +26,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFuents&show_icons=true&theme=midnight-purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFuents&layout=compact&theme=midnight-purple" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github snake animation" src="dist/github-snake.svg" />
-</picture>
-
-
   
   ##
  <h3 align="center">📩 Onde me encontrar</h3>
@@ -42,3 +34,9 @@
   <a href="https://www.linkedin.com/in/leonardofuentes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoFuents/LeonardoFuents/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoFuents/LeonardoFuents/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoFuents/LeonardoFuents/output/github-contribution-grid-snake.svg" />
+</picture>
