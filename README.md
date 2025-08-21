@@ -1,11 +1,11 @@
-<h3 align="center">Sobre mim</h3>
+<h3 align="center">👉 Sobre mim</h3>
 
-- :book: Atualmente aprimorando meu conhecimento como <strong>Técnico em Desenvolvimento de Sistemas</strong> na Escola SENAI Paulo Antônio Skaf.
-- :computer: Foco em crescer profissionalmente como desenvolvedor Full-Stack.
-- 🎓 Técnico em <strong>Eletroeletrônica</strong> pelo <strong>SENAI A. Jacob Lafer</strong>
-- :video_game: Apaixonado por tecnologia e jogos.
-- 
-- 
+- 📙 Atualmente aprimorando meu conhecimento como **Técnico em Desenvolvimento de Sistemas** na Escola SENAI Paulo Antônio Skaf.
+- 💻 Foco em crescer profissionalmente como desenvolvedor Full-Stack.
+- 🎓 Técnico em **Eletroeletrônica** pelo **SENAI A. Jacob Lafer**.
+- 📘 Sempre em busca de novos conhecimentos e tecnologias inovadoras.
+- 👾 Apaixonado pela Tecnologia e Jogos.
+  
 
 
 
