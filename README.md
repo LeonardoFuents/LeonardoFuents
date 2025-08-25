@@ -25,6 +25,13 @@
   </div>
   
   ##
+
+<h3 align="center">🏅 Badges</h3>
+
+ <a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank">
+    <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
+  </a>  
+  
   
 <h3 align="center">📊 Stats</h3>
 
