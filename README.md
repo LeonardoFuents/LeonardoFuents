@@ -6,8 +6,6 @@
 - 🎓 Técnico em **Eletroeletrônica** pelo **SENAI A. Jacob Lafer**.
 - 🎮 Apaixonado pela Tecnologia e Jogos.
 
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a68ff67c-deb2-4fbf-8373-39d80590e55d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
   ##
 
   <h3 align="center">💻 Meus Conhecimentos Atuais</h3>
