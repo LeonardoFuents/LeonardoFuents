@@ -28,21 +28,11 @@
 
 <h3 align="center">🏅 Badges</h3>
 
-
-
- <a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank">
-
-    <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
-
-  </a> 
-
-  
-
-  <a href="https://www.credly.com/badges/7c5e5dce-9f15-42a5-b985-da78cb8420c8/public_url" target="blank">
-
-    <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob"/>
-
-  </a> 
+<a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
+</a><a href="https://www.credly.com/badges/7c5e5dce-9f15-42a5-b985-da78cb8420c8/public_url" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob"/>
+</a>
   
   ##
  <h3 align="center">📩 Onde me encontrar</h3>
