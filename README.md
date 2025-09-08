@@ -32,7 +32,9 @@
   <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob"/>
 </a>
 
-
+<a href="https://www.credly.com/badges/0711b64d-fbc3-4412-ba75-90c90f2bf203/public_url" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+</a>
 
 <a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank" style="text-decoration: none;">
   <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
