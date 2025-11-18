@@ -28,16 +28,16 @@
 
 <h3 align="center">🏅 Badges</h3>
 
-<a href="https://www.credly.com/badges/7c5e5dce-9f15-42a5-b985-da78cb8420c8/public_url" target="blank" style="text-decoration: none;">
-  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob"/>
+<a href="https://www.credly.com/earner/earned/badge/7c5e5dce-9f15-42a5-b985-da78cb8420c8" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob"/>
 </a>
 
-<a href="https://www.credly.com/badges/0711b64d-fbc3-4412-ba75-90c90f2bf203/public_url" target="blank" style="text-decoration: none;">
-  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+<a href="https://www.credly.com/earner/earned/badge/0711b64d-fbc3-4412-ba75-90c90f2bf203" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"/>
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank" style="text-decoration: none;">
-  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
+  <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob"/>
 </a>
   
   ##
