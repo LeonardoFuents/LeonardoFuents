@@ -39,6 +39,10 @@
 <a href="https://www.credly.com/earner/earned/badge/a68ff67c-deb2-4fbf-8373-39d80590e55d" target="blank" style="text-decoration: none;">
   <img width="15%" height="15%" src="https://images.credly.com/size/680x680/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob"/>
 </a>
+
+<a href="https://www.skills.google/public_profiles/80ae8a3e-d562-461f-9826-2c847c33def0/badges/20173294" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://cdn.qwiklabs.com/G9qx5ABl8EWyPeUz68d3gbPWvNallEcpR62DzC88pqo%3D"/>
+</a>
   
   ##
 
