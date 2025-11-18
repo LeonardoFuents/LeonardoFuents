@@ -41,15 +41,15 @@
 </a>
 
 <a href="https://www.skills.google/public_profiles/80ae8a3e-d562-461f-9826-2c847c33def0/badges/20173294" target="blank" style="text-decoration: none;">
-  <img width="12%" height="12%" src="https://cdn.qwiklabs.com/G9qx5ABl8EWyPeUz68d3gbPWvNallEcpR62DzC88pqo%3D"/>
+  <img width="15%" height="15%" src="https://cdn.qwiklabs.com/G9qx5ABl8EWyPeUz68d3gbPWvNallEcpR62DzC88pqo%3D"/>
 </a>
 
 <a href="https://www.skills.google/public_profiles/80ae8a3e-d562-461f-9826-2c847c33def0/badges/20311497" target="blank" style="text-decoration: none;">
-  <img width="12%" height="12%" src="https://cdn.qwiklabs.com/5oj16445Kgc2az57kLTkLlLZmBcJpxGeeEn5lGjfryE%3D"/>
+  <img width="15%" height="15%" src="https://cdn.qwiklabs.com/5oj16445Kgc2az57kLTkLlLZmBcJpxGeeEn5lGjfryE%3D"/>
 </a>
 
 <a href="https://www.skills.google/public_profiles/80ae8a3e-d562-461f-9826-2c847c33def0/badges/20146833" target="blank" style="text-decoration: none;">
-  <img width="12" height="12%" src="https://cdn.qwiklabs.com/fHYt32hBV2Xt5pX9bEH%2FbqdtYuwin8BFrr1xgYx%2BTgI%3D"/>
+  <img width="15%" height="15%" src="https://cdn.qwiklabs.com/fHYt32hBV2Xt5pX9bEH%2FbqdtYuwin8BFrr1xgYx%2BTgI%3D"/>
 </a>
   
   ##
