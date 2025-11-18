@@ -28,7 +28,7 @@
 
 <h3 align="center">🏅 Badges</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.credly.com/earner/earned/badge/7c5e5dce-9f15-42a5-b985-da78cb8420c8" target="_blank">
     <img width="15%" src="https://images.credly.com/size/680x680/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob"/>
   </a><a href="https://www.credly.com/earner/earned/badge/0711b64d-fbc3-4412-ba75-90c90f2bf203" target="_blank">
@@ -42,7 +42,7 @@
   </a><a href="https://www.skills.google/public_profiles/80ae8a3e-d562-461f-9826-2c847c33def0/badges/20146833" target="_blank">
     <img width="15%" src="https://cdn.qwiklabs.com/fHYt32hBV2Xt5pX9bEH%2FbqdtYuwin8BFrr1xgYx%2BTgI%3D"/>
   </a>
-</div>
+</p>
   
   ##
 
