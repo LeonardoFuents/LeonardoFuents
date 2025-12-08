@@ -41,14 +41,6 @@
   
   ##
 
-  <h3 align="center">📊 Stats</h3>
-  
-  <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFuents&show_icons=true&theme=midnight-purple" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFuents&layout=compact&theme=midnight-purple" />
-</div>
-
-  ##
 
  <h3 align="center">📩 Onde me encontrar</h3>
 <div align="center">
