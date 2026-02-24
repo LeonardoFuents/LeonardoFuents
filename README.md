@@ -20,6 +20,7 @@
   <img align="center" alt="Leo-VS" height="30" width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg">
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
   <img align="center" alt="Leo-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
+  <img align="center" alt="Leo-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/n8n/original.svg">
     
 
   </div>
