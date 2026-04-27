@@ -10,11 +10,20 @@
 
 <h3 align="center">💻 Meus Conhecimentos Atuais</h3>
 
-<p align="center">
-  <img alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="Leo-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg"> <img alt="Leo-C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"> <img alt="Leo-VS" height="30" width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg"> <img alt="Leo-VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg"> <img alt="Leo-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"> <img alt="Leo-Postgres" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40" alt="C"/>
+  <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="40" alt="C++"/>
+  <img src="https://devicon-website.vercel.app/api/visualstudio/plain.svg" width="40" alt="Visual Studio"/>
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40" alt="VS Code"/>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" width="40" alt="Git"/>
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" width="40" alt="PostgreSQL"/>
+</div>
 
-##
+<br>
 
 <h3 align="center">🏅 Badges</h3>
 
