@@ -10,24 +10,20 @@
 
   <h3 align="center">💻 Meus Conhecimentos Atuais</h3>
   
-  <div align="center">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
-  <img align="center" alt="Leo-C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">    
-  <img align="center" alt="Leo-VS" height="30" width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg">
-  <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
-  <img align="center" alt="Leo-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
-  <img align="center" alt="Leo-Postgres" height="30" width ="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg">
+<div align="center">
+  <img alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Leo-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img alt="Leo-C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">    
+  <img alt="Leo-VS" height="30" width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg">
+  <img alt="Leo-VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
+  <img alt="Leo-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
+  <img alt="Leo-Postgres" height="30" width ="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg">
+</div>
 
-  
-    
-
-  </div>
-  
-  ##
+##
 
 <h3 align="center">🏅 Badges</h3>
 
