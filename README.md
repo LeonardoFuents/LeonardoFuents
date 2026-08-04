@@ -3,8 +3,7 @@
 - 📓 Aprimorando meu conhecimento como **Técnico em Desenvolvimento de Sistemas** na Escola SENAI Paulo Antônio Skaf.
 - 💻 Foco em crescer profissionalmente como desenvolvedor Full-Stack.
 - 📘 Sempre em busca de novos conhecimentos e tecnologias inovadoras.
-- 🎓 Técnico em **Eletroeletrônica** pelo **SENAI A. Jacob Lafer**.
-- 🎮 Apaixonado pela Tecnologia e Jogos.
+
 
   ##
 
