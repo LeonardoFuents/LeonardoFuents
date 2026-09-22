@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=200&section=header&text=Leonardo%20Fuentes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full-Stack;Front-end+%7C+Back-end+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full-Stack;Front-end+%7C+Back-end+%7C+Cloud;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 <br>
@@ -25,10 +25,14 @@
 <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,go&theme=dark" />
 
 **Front-end**<br>
-<img src="https://skillicons.dev/icons?i=react,vue,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,vite&theme=dark" />
 
 **Banco de dados**<br>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />&nbsp;&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" />
+
+**Cloud**<br>
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure&theme=dark" />
 
 **Ferramentas**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
@@ -40,8 +44,8 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoFuents&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFuents&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&langs_count=6" />
+  <img height="170" src="./profile-summary-card-output/dracula/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" />
   <br>
   <img src="https://streak-stats.demolab.com?user=LeonardoFuents&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E9D5FF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=6D28D9" />
 </div>
